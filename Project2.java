@@ -118,7 +118,7 @@ class Home extends JFrame implements ActionListener,KeyListener,TableModelListen
 	HomePanel jp=null;
 	TabPan1 tp=null;
 	Background b=null;
-	Register reg=null;
+	//Register reg=null;
 	//Generation gen=null;
 	 Connection connection=null;
 	 int f=0,l=0;
